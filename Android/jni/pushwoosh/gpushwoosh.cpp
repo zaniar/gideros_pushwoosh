@@ -1,4 +1,4 @@
-#include <gpushwoosh.h>
+#include "gpushwoosh.h"
 #include <jni.h>
 #include <stdlib.h>
 #include <glog.h>
